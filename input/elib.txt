@@ -1,4 +1,3 @@
-Устойчивость нелинейных систем с неединственным состоянием равновесия 
 Observer based strict positive real spr switching output feedback control 
 A nonlinear philosophy for nonlinear systems 
 Feedback design for pendulum like systems guaranteeing gradient like behavior 

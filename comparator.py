@@ -63,10 +63,10 @@ class comparator:
             for line in lines:
                 tmp = line
                 line = line.capitalize()
-                line = re.sub(r'[\W_]+', " ", line)
+                line = re.sub(r'[\W_]+', " ", line) + '\n'
                 #matching of the raw record with the processed
                 books[line] = tmp
-                file.write(line + '\n')
+                file.write(line)
         if flag:
             self.sch_map = books
         else:
