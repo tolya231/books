@@ -1,0 +1,623 @@
+5 two examples of complicated behaviour of trajectories 
+A criterion for absolute disconjugate stability for nth order equations 
+A frequency condition for the generalized recurrent difference in the synthesis of suboptimal decentralized and robust regulators 
+A linear quadratic optimization problem and the frequency theorem for nonperiodic systems 
+A new parametrization of controllers 
+A new stability test for nonlinear nonautonomous systems 
+A nonlinear philosophy for nonlinear systems 
+A note on extended algebraic riccati equations appearing in dissipativity theory 
+A relaxed characterization of iss for periodic systems with multiple invariant sets 
+A short survey on nonlinear models of the classic costas loop rigorous derivation and limitations of the classic analysis 
+Absolute characteristic exponent of class of linear nonstatinoary systems of differential equations 
+Absolute interval stability of indirect regulating systems of neutral type 
+Absolute stability of an interval family of nonlinear dynamic systems with nonlinear feedback 
+Absolute stability of singularly perturbed lur system and lyapunov matrix function 
+Abstract criteria for absolute stability of nonlinear systems relative to linear output applications 
+Adaptive control of hydraulic drive 
+Adaptive mechanics 
+Aircraft control with anti windup compensation 
+Algorithms for finding hidden oscillations in nonlinear systems the aizerman and kalman conjectures and chua circuits 
+An estimate of the attraction domain with specified exponential stability index in wheeled robot control problem 
+An iterative method of lyapunov function construction for differential inclusions 
+Analysis of finite time convergence by the method of lyapunov functions in systems with second order sliding modes 
+Analytic parameterization of stabilizing controllers for the surge subsystem of the moore greitzer compressor model 
+Analytical numerical methods of finding hidden oscillations in multidimensional dynamical systems 
+Arbitrary switching 
+Asymptotic behavior of solutions of differential equations describing synchronous machines 
+Asymptotic behavtoub of trajectories of dynamical systems on the cylinder 
+Asymptotic orbital stability conditions for flows by estimates of singular values of the linearization 
+Asymptotics of nonlinear processes of controlled approach 
+Attraction domains of delay systems construction by the lyapunov function method 
+Author guide for preparation of papers 
+Bounds for attractors and the existence of homoclinic orbits in the lorenz system 
+Coefficient criteria for the existence of limit cycle in two dimensional system with hysteresis 
+Coincidence of the gelig leonov yakubovich filippov and aizerman pyatnitskiy definitions 
+Compensating unremovable imperfections in operation units 
+Computation of the lock in ranges of phase locked loops with pi filter 
+Computer aided on line development and derivation of the motion equation of space module 
+Conditions for auto oscillations in nonlinear systems 
+Conditions for solvability of extended algebraic riccati equations with applications to dissipativity theory 
+Conditions for the absence of cycles of the second kind in continuous and discrete systems with cylindrical phase space 
+Conditions for the global stability of single system with hysteresis nonlinearity 
+Consensus in nonlinear stationary networks with identical agents 
+Construction of invariant ellipsoids in the stabilization problem for wheeled robot following curvilinear path 
+Construction of piecewise continuous controllers in solving the boundary problem for systems of ordinary 
+Construction of robust control laws on the basis of the minimax approach 
+Construction of the best ellipsoidal approximation of the attraction domain in stabilization problem for wheeled robot 
+Control and estimation under constrained information toward unique theory of control computation and communication1 
+Control and estimation under information constraints toward unified theory of control computation and communications 
+Control force for scleronomic mechanical system in decomposition mode 
+Control of nonlinear systems with bounded signals 
+Control of pendulum oscillations with variable parameters 
+Control of the spectrum of multidimensional oscillatory objects 
+Control over the output of nonlinear systems with unaccounted dynamics 
+Convexity of the joint numerical range 
+Coordinatewise estimates for vector outputs of multivariable phase control systems 
+Delays nonlinearity synchronization 
+Der frequenzsatz von kalman 3akubovich mit einer anwendung zur abschaatzung singulaarer werte 
+Design of optimal and robust control with γ0 performance criterion 
+Design of optimal control under uncertain initial conditions minimax approach 
+Design of robust output controllers via frequency conditions 
+Designing suboptimal discrete output control laws for damping bounded perturbations 
+Dichotomy and absolute stability of nonlinear systems with periodically nonstationary linear part 
+Differential equations with discontinuous righthand sides control systems 
+Direct and inverse problems for generalized pick matrix 
+Discontinuous differential equations comparison of solution definitions and localization of hidden chua attractors 
+Dissipative systems analysis and control 
+Dissipative systems analysis and control theory and applications 
+Dissipativity of some class of uncertain systems 
+Dynamics of neural networks as nonlinear systems with several equilibria 
+E mail leonov math spbu ru 
+Elementary proof of stabilization theorem for linear controllable systems 
+Elements of the theory of evolution of sets and stability of these processes 
+Ellipsoidal approximations of invariant sets in stabilization problem for wheeled robot following curvilinear path 
+Ellipsoidal approximations of the attraction domain in the path following problem for wheeled robot with constrained resource 
+Engineering damage mechanics ductile creep fatigue and brittle failures 
+Essays on the absolute stability theory 
+Estimates for the attainable set for differential inclusions 
+Estimates of exponential stability for solutions of stochastic control systems with delay 
+Estimates of perturbations of nonlinear indirect interval control system of neutral type 
+Estimation of attraction domains in wheeled robot control 
+Evaluation of the domain of attraction of time varying systems with sector and polynomial nonlinearities 
+Explicit stability conditions for continuous systems functional analytic approach 
+Extension of the procedure and analysis of the multidimensional control systems using linear matrix inequalities 
+Feedback analysis of nonlinear systems 
+Frequency criteria for the stability and instability in the large of stationary sets of nonlinear systems of differential equations with single monotone nonlinearity 
+Frequency criteria in the absolute output stabilization problem for infinite dimensional systems 
+Frequency domain conditions for synthesis and analysis of robust output feedback control systems 
+Frequency domain criteria for consensus in multiagent systems with nonlinear sector shaped couplings 
+Frequency domain criterion for the absolute stability of nonlinear systems 
+Frequency estimates for the number of cycle slippings in phase system with nonlinear vector function 
+Generalized optimal control as trade off between the optimal and optimal controls 
+Global asymptotic stability for class of nonlinear systems which are equivalent to neutral higher order functional differential equations 
+Global lyapunov analysis of multistable nonlinear systems 
+Global stability and instability of canonical chua circuits 
+Global stability and oscillations of distributed parameter synchronization systems differential equations and control theory ed by barbu 
+Global stability and oscillations of dynamical systems describing synchronous electrical machines 
+Global stability conditions of system with hysteresis nonlinearity 
+Global stability op the lorenz system 
+Global stabilization of controlled nonlinear system inverted pendulum on cart using method of two lyapunov functions 
+Gradient like properties of distributed and discrete phase systems 
+Graph analytic criteria of stability and instability in large stationary sets of discrete systems 
+Hidden attractors in electromechanical systems with and without equilibria 
+Hold in pull in and lock in ranges of pll circuits rigorous mathematical definitions and limitations of classical theory 
+Homoclinic and heteroclinic orbits of family of multidimensional dynamical systems 
+Hybrid dynamical systems controller and sensor switching problems 
+In this short paper we employ the nonlocal reduction method 1 2 in in vestigating global asymptotic stability of the lorentz system papers 3 4 were the 
+Information system based on the mathematical model of the eps 
+Input to state stability and allied system properties 
+Instability of stationary sets of nonlinear systems of differential equations 
+Instability of the control systems with non stationary nonlinearities 
+Introduction to the theory of stability 
+Invariance of system of automatic control 
+Invariant stabilization of classes of uncertain systems with delays 
+Investigation of absolute stability of nonlinear systems of special kind with aftereffect by the lyapunov functions method 
+Joint numerical range convexity of k tuple of operators 
+Kalman popov yakubovich lemma and the procedure historical essay 
+Kalman popov yakubovich lemma for ordered fields 
+Kalman yakubovich popov lemma and hilbert 17th problem supported by spbsu grant 6 38 230 2015 
+Lim φ φ φ φ 
+Limitations of pll simulation hidden oscillations in spice analysis 
+Limitations of the classical phase locked loop analysis 
+Linear control design under phase constraints 
+Linear matrix inequality based analysis of the discrete continuous nonlinear multivariable systems 
+Linear quadratic optimization problem and frequency theorem for periodic systems 
+Lineárni maticové diferenciálni rovnice se zpozdenim 
+Local instability and localization of attractors from stochastic generator to chua systems 
+Localization of attractors in multidimensional chua circuit equations 
+Lock in range of pll based circuits with proportionally integrating filter and sinusoidal phase detector characteristic 
+Lyapunov based adaptive control method for hydraulic servo drive 
+Lyapunov direct method in the estimation of the hausdorff dimension of attractors 
+Lyapunov exponents and problems of linearization from stability to chaos 
+Lyapunov function method for control law synthesis under one integral and several phase constraints 
+Lyapunov functional for multiple delay general lurie systems with multiple non linearities 
+Mathematical models and stability analysis of induction motors under sudden changes of load 
+Mathematical models and stability analysis of three phase synchronous machines 
+Mathematical problems of control theory an introduction 
+Method for the computation of the lyapunov exponent of differential inclusion 
+Method of transition into space of derivatives 40 years of evolution 
+Methods for suppressing nonlinear oscillations in astatic auto piloted aircraft control systems 
+Miscellaneous problems 
+Modal stabilization of certain class of uniformly controllable systems 
+Modeling and synchronization of biological rhythms from cells to oyster behavior 
+Modernization of one criterion for absolute stability 
+Necessary and sufficient conditions for the passivicability of linear distributed systems 
+Necessity in quadratic criterion for absolute stability 
+Neural networks and equilibria synchronization and time lags 
+Nizhny novgorod state architectural and building academy ilyinskaya st 65 nizhny novgorod 603600 russia faxes 7 8312 34 0201 7 8312 33 0153 
+Non local methods for pendulum like feedback systems 
+Nonexistence of periodic solutions in class of dynamical systems with cylindrical phase space 
+Nonlinear analysis of classical phase locked loops in signal phase space 
+Nonlinear analysis of phase locked loop 
+Nonlinear and time delay systems for flight control 
+Numerical methods for estimation of the attraction domain in the problem of control of the wheeled robot 
+Of it tuple of operators 
+On absolute stability of positive systems 
+On boundedness of solutions of nonautonomous differential equations udc 517 919 
+On boundedness of solutions of nonautonomous differential equations udc 517 919 ga leonov 
+On conditions of robust synchronization for multistable systems 
+On estimating the attraction regions of the equilibrium states of dynamic systems by the direct lyapunov method 
+On global lyapunov characterization of multi stable nonlinear systems 
+On pareto set in control and filtering problems under stochastic and deterministic disturbances 
+On periodic travelling waves of equations with viscosity coefficient of variable sign 
+On popov type stability criteria for neural networks 
+On problem of barbashin 
+On smale problem 
+On solution concepts and well posedness of linear relay systems 
+On special type of stability of differential equations for induction machines with double squirrel cage rotor 
+On stability and passivity of class of hybrid 
+On stability and passivity of class of hybrid systems 
+On stability of solutions to certain differential equations with discontinuous right hand sides 
+On stabilization method in neutral type direct control systems 
+On the absence of periodic solutions in interconnected phase systems 
+On the aizerman problem 
+On the analysis of the motion of class of mechanical systems with discontinuous nonhomogeneity 
+On the asymptotical behaviour of solutions of class of nonlinear control systems 
+On the computation of lagrange quadratic bound for positive roots of polynomials 
+On the global stability of the forced motions of liquid within an ellipsoid 
+On the kalman problem 
+On the lower estimates of the lyapunov exponents and the upper estimates of the hausdorff dimension of attractors 
+On the robust synchronization of brockett oscillators 
+On the solutions of riccati inequalities with sign indefinite quadratic terms 
+On the spectra of small vibrations of string with viscous friction at one end 
+On the stability of nonlinear systems with the monotonic differentiable nonlinear characteristics 
+On the stability of nonlinear systems with the monotonic differentiable nonlinear characteristics 
+Optical costas loop pull in range estimation and hidden oscillations 
+Optimal damping of perturbations in system with unknown initial conditions 
+Optimal perturbation damping in linear control systems 
+Optimal pulse control of dynamic systems in the shock phase 
+Optimal robust linear quadratic stabilization 
+Optimality conditions for linear robust controllers 
+Optimizing the transient time estimate in control problems 
+Oscillations of dynamical systems applied in drilling analytical and numerical methods 
+Output control of linear systems with unmodeled dynamics 
+Output control of nonlinear delay systems with unmodeled dynamics 
+Pendulum with positive and negative dry friction continuum of homoclinic orbits 
+Periodic motions and criteria of absolute stability instability and controllability of two dimensional bilinear systems 
+Phase synchronization theory and applications 
+Popov method and its subsequent development 
+Popov theories and qualitative behavior of dynamic and control systems 
+Popov type stability criterion for the functional differential equations describing pulse modulated control systems 
+Positive linear systems the method of positive operators 
+Pull in range of the classical pll with impulse signals 
+Pull in range of the pll based circuits with proportionally integrating filter this work was supported by saint petersburg state university project 6 39 416 2014 
+Qualitative theory of hybrid dynamical systems 
+Relaxing the conditions of iss for multistable periodic systems 
+Riemannian parallel translation in non linear mechanics 
+Rigorous mathematical definitions of the hold in and pull in ranges for phase locked loops 
+Robust analysis and synthesis for class of uncertain nonlinear systems with multiple equilibria 
+Robust control of linear systems with delay 
+Robust decentralised output feedback control of interconnected grid system 
+Robust global synchronization of brockett oscillators 
+Robust stratification of the set of solutions of linear matrix inequality 
+Robust synchronization for multistable systems 
+Selfadjoint k of symmetric subspaces an abstract approach to boundary problems with spectral parameter in the boundary conditions 
+Sensitivity optimization problem for uncertain discrete siso system 
+Simulation of pll with impulse signals in matlab limitations hidden oscillations and pull in range 
+Simulation of the classical analog phase locked loop based circuits 
+Singular problem in optimal control of linear stationary system with quadratic functional 
+Singular stationary nonhomogeneous linear quadratic optimal control 
+Solubility of matrix inequalities 
+Solution of the absolute stabilization problem for delay systems in the class of finite dimensional controllers 
+Solution of the gardner problem on the lock in range of phase locked loop 
+Solution of the problem of control in the presence of regular nonlinearities 
+Some remarks on system analysis via integral quadratic constraints 
+Speed gradient energy and sampled data control of cart pendulum system 
+Stability analysis of non linear time varying systems by lyapunov functions with indefinite derivatives 
+Stability and asymptotic behavior of the systems with delay and bounded nonlinearity 
+Stability and oscillations of nonlinear pulse modulated systems 
+Stability and oscillations of solutions of integro differential equations of pendulum like systems 
+Stability and sliding modes for class of nonlinear time delay systems 
+Stability and stable oscillations in discrete time systems 
+Stability and synchronization of oscillators new lyapunov functions 
+Stability bifurcations and stabilisation of invariant sets in differential inclusions 
+Stability by liapunov matrix function method with applications 
+Stability of linear time delay systems 
+Stability of nonlinear 2d systems described by the continuous time roesser model 
+Stability of nonlinear systems with differentiable linear parts 
+Stability of program manifold of control systems with locally quadratic relations 
+Stability of strain control systems of nano and microdisplacement piezotransducers 
+Stability of systems with several monotone nonlinearities 
+Stability problems in power engineering 
+Stability study of power system with unipolar electromagnetic brake 
+Stabilization by linear feedback under phase constraints 
+Stabilization of certain class of uniformly controllable systems 
+Stabilization of linear system by means of combined pulse modulation 
+Stabilization of nonlinear systems via forwarding mod lgv 
+Stabilization of nonlinear systems via forwarding mod sub v 
+Stabilization of systems with hysteresis by periodic external force 
+Stabilization problem for wheeled robot following curvilinear path on uneven terrain 
+Stochastic problems of absolute stability 
+Synthesis of multipurpose linear control laws of discrete objects under integral and phase constraints 
+Synthesis of nonfragile controllers on the basis of linear matrix inequalities 
+Systems with monotone and slope restricted nonlinearities 
+The fenchel duality procedure and the yakubovich kalman lemma 
+The frequency methods and frequency theorem for nonlinear pseudodifferential systems 
+The global stability of two dimensional systems for controlling angular orientation 
+The localization of attractors of the liénard equation 
+The nonlocal reduction method in analyzing the stability of differential equations of induction machines 
+The periodic solution of two dimensional linear nonstationary systems and estimation of the attraction domain boundary in the problem of control of wheeled robot 
+The state space extension method in the theory of absolute stability 
+The two point boundary value problen in geometrical mechanics with discontinuous forces 
+The use of lyapunov second method to estimate regions of stability and attraction 
+Theoretical background 
+This article presents an algebraic algorithm for determining the exact bounds of the region of absolute stability for pulsed control systems with structured 
+Three lectures on dissipativeness 
+Topological fixed point 
+Tracking domains for unstable plants with saturating like actuators 
+Using the decomposition principle to stabilize the nominal motion of mechanical system with given accuracy 
+Vestnik st petersburg university mathematics 
+Vibration and noise in brake systems of vehicles part 2 theoretical investigation techniques 
+Vladimir andreevich yakubovich obituary 
+Аа бобцов гос институт точной механики оптики петербург 
+Абсолютная интервальная устойчивость систем регулирования нейтрального типа 
+Абсолютная неустойчивость нелинейных нестационарных систем iii 
+Абсолютная устойчивость абсолютная неустойчивость систем управления двумя нелинейными нестационарными элементами ii 
+Абсолютная устойчивость абсолютная неустойчивость систем управления несколькими нелинейными нестационарными элементами 
+Абсолютная устойчивость двумерных систем гистерезисной функцией релейного типа 
+Абсолютная устойчивость детерминированных стохастических систем управления 
+Абсолютная устойчивость интервального семейства нелинейных динамических систем нелинейной обратной связью 
+Абсолютная устойчивость нелинейных алгоритмов синхронизации для сетей переменной топологией 
+Абсолютная устойчивость нелинейных систем распределенными параметрами 
+Абсолютная устойчивость регулируемых систем ограниченными ресурсами основном случае 
+Абсолютная устойчивость регулируемых систем ограниченными ресурсами основном случае 
+Абсолютная устойчивость регулируемых стацио нарных систем 
+Абсолютная устойчивость систем регулирования одной гистерезисной нелинейностью 
+Автоколебания импульсных системах высокой тактовой частотой 
+Автомодуляционные колебания системы автоподстройки частоты 
+Адаптивная механика 
+Адаптивное робастное управление нелинейными системами неучтенной динамикой 
+Адаптивное управление по выходу проблематика прикладные задачи решения 
+Адаптивное управление сложных системах 
+Алгебраические критерии абсолютной устойчивости нелинейных систем автоматического управления 
+Алгоритм анализа робастной устойчивости непрерывных систем управления периодическими ограничениями 
+Алгоритм пошаговой стабилизации линейного объекта управления 
+Алгоритмы анализа робастной устойчивости линейных нестационарных систем управления периодическими ограничениями 
+Алгоритмы поиска скрытых колебаний нелинейных системах проблемы айзермана калмана цепи чуа 
+Алгоритмы скоростного градиента задачах управления адаптации 
+Анализ динамических свойств системы автоматического управления изменяющейся конфигурацией стохастическим 
+Анализ дискретно непрерывных нелинейных многосвязных систем на основе линейных матричных неравенств 
+Анализ конечно временной сходимости методом функций ляпунова системах со скользящими режимами второго порядка 
+Аналитико численные методы поиска скрытых колебаний многомерных динамических системах 
+Аналог кругового критерия абсолютной устойчивости для систем переменным запаздыванием 
+Асимптотика релаксационных колебаний системах дифференциально разностных уравнений финитной нелинейностью 
+Асимтотические частотные оценки амплитуды выходного сигнала для дискретных фазовых систем 
+Введение теорию управления 
+Вибрация шум тормозных системах мобильных машин часть 2 теоретические методы исследования 
+Визначення основних властивостей системи фазового автопідстроювання частоти додатковим каналом фазової компенсації 
+Вычисление области притяжения для систем полиномиальной правой частью 
+Глобальная устойчивость колебания динамических систем описывающих синхронные электрические машины 
+Глобальная устойчивость систем автопод стройки проблема расфазировки тактовых импульсов сверхбольших ин тегральных схемах 
+Гомоклинические гетероклинические траектории семейства многомерных динамических систем 
+Градиентный метод построения функций ляпунова задачах абсолютной устойчивости 
+Граница абсолютной устойчивости нелинейных нестационарных систем ее связь построением инвариантных функций 
+Двойственность фенхеля процедура лемма якубовича калмана 
+Декомпозиция частотных критериев устойчивости много агрегатных линейных систем 
+Децентрализованное адаптивное управление эталонной моделью 
+Динамика астатической поисковой системы частотно фазовой автоподстройки частоты 
+Динамика систем импульсной модуляцией 
+Динамика системы частотно фазовой автоподстройки частоты фильтрами первого порядка 
+Динамические системы 
+Дискретизация бесконечномерных линейных динамических систем 
+Дискретно непрерывная математика алгебры 4 1 
+Дискретные системы со случайными параметрами структурой 
+Диссипативность некоторого класса неопределенных систем 
+Диссипативность нелинейной системы управления стохастическим объектом запаздыванием 
+Диссипативность широтно импульсных систем высокой тактовой частотой 
+Дифференциальные включения банаховом пространстве 
+Дихотомия устойчивость неопределенных нелинейных систем гильбертовых пространствах 
+Достаточные условия абсолютной устойчивости оптимальных пассивных систем рассеяния 
+Достаточные условия устойчивости динамической системы неточными данными 
+Задача абсолютной устойчивости для сингулярно возмущенных систем обратной связью 
+Задача оптимизации для квадратичных матриц функций 
+Задачи методы адаптивного управления 
+Инвариантная стабилизация некоторых классов неопределенных систем запаздывающим аргументом 
+Исследование абсолютной устойчивости нелинейной интервально заданной системы запаздывающим аргументом 
+Исследование абсолютной устойчивости нелинейных разностных интервальных включений 
+Исследование абсолютной устойчивости регулируемых систем the study of absolute stability for regulated systems 
+Исследование нелинейных гибридных систем методом матричных неравенств 
+Исследование установившихся движений релейной системе управления учетом запаздывания входного сигнала 
+Исследование устойчивости автономных сингулярно возмущенных систем на основе матриц функций ляпунова 
+Исследование устойчивости гибридных нелинейных систем помощью процедуры линейных матричных неравенств 
+Исследование устойчивости реактора рециклом на режиме полным использованием исходных реагентов 
+Исследование устойчивости энергосистемы однополярным электромагнитным тормозом 
+К абсолютной устойчивости регулируемых систем простом критическом случае 
+К глобальной асимптотической устойчивости динамических систем динамикалық жүйелердiң глобальдi ассимптотикалық орнықтылығына 
+К глобальной асимптотической устойчивости динамических систем динамикалық жүйелердiң глобальдi ассимптотикалық орнықтылығына 
+К глобальной асимптотической устойчивости динамических систем цилиндрическим фазовым пространством 
+К глобальной асимптотической устойчивости динамических систем цилиндрическим фазовым пространством 
+К динамике двухмашинной энергосистемы 
+К задаче стабилизации нелинейных аффинных систем 
+К теории глобальной асимптотической устойчивости фазовых систем 
+К теории регулируемых фазовых систем 
+Квадратичный критерий абсолютной устойчивости ва якубовича частотная теорема теория многоагантных систем 
+Классификация решений обыкновенных дифференциальных уравнений первого порядка 
+Колебательные циклы фазовой системы 
+Компенсация неустранимых неидеальностей исполнительных устройств 
+Консенсус нелинейных стационарных сетях идентичными агентами 
+Критерии абсолютной устойчивости для автоматических систем векторными не линейными блоками 
+Критерии существования предельного цикла двумерной системе гистерезисом 
+Критерий попова для систем несколькими комплекснозначными нелинейностями 
+Критерий попова задаче вынужденных колебаниях системах управления 
+Лемма калмана попова якубовича для упорядоченных полей 
+Линейные матричные неравенства синтезе регуляторов при ограничениях на управление фазовые переменные 
+Локальная стабилизация линейногообъекта управления импульсным сигналом 
+Лотки вольтерра теория приложения 
+Математика фундаментальные прикладные исследования вопросы образования международная научно практическая конференция 
+Математическое моделирование процессов динамики управления экономике 
+Матричный критерий абсолютной устойчивости импульсных систем автоматического управления 
+Метод анализа динамических свойств дискретного контура регулирования по линейному приближению разностных уравнений 
+Метод вычисления показателя ляпунова дифференциального включения 
+Метод нелокального сведения анализе устойчивости дифференциальных уравнений асинхронных машин 
+Метод нелокального сведения теории абсолютной устойчивости нелинейных систем ii 
+Метод нелокального сведения теории устойчивости 
+Метод нескольких функций ляпунова задаче глобальной стабилизации нелинейных систем 
+Метод пассификации задачах синхронизации оценивания состояния нелинейных систем по цифровому каналу связи 
+Метод перехода пространство производных 40 лет эволюции 
+Метод регуляризации скользящих движений по обратной связи 
+Метод свертывания матричных неравенств критерии абсолютной устойчивости стационарных систем управления 
+Метод усредненных моделей задаче достижения консенсуса 
+Метод функции ляпунова задаче синтеза стабилизирующих адаптивных регуляторов ленинград постановка задачи 
+Метод функций ляпунова для построения областей притяжения систем запаздыванием 
+Метод функций ляпунова синтезе законов управления при интегральном фазовых ограничениях 
+Методы коррекции расфазировок цифровых сигнальных процессорах 
+Методы подавления нелинейных колебаний астатических системах автопилотирования летательных аппаратов 
+Методы стабилизации линейных управляемых систем 
+Минимаксный подход синтезу абсолютно стабилизирующих регуляторов для нелинейных систем лурье 
+Минимаксный подход синтезу оптимального управления при неопределенных начальных условиях 
+Модальная стабилизация некоторого класса нелинейных нестационарных систем 
+Модальная стабилизация некоторого класса равномерно управляемых систем 
+Модальное управление нестационарными системами 
+Моделирование вспышек массовых размножений насекомых 
+Модернизация одного критерия абсолютной устойчивости 
+Мультиагентные технологии адаптация самоорганизация достижение консенсуса 
+Наблюдение параметрически возмущенных динамических систем 
+Неклассические дифференциальные уравнения 
+Нелинейная стабилизация динамических систем управления 
+Нелинейные оптимальные регуляторы стохастических системах линейным объектом квадратичным функционалом 
+Необходимость квадратичном критерии абсолютной устойчивости систем периодически нестационарной линейной частью 
+Необходимые достаточные условия пассифицируемости линейных распределенных систем 
+Необходимые частотные условия абсолютной устойчивости нестационарных систем 
+Неустойчивость колебания систем гистерезисными нелинейностями 
+О бифуркации периодических решений системы дифференциальных уравнений 
+О глобальной асимптотической устойчивости решений уравнений второго порядка гистерезисными нелинейностями 
+О грубости скользящих режимов систем разрывными управлениями 
+О двух критериях абсолютной устойчивости дискретных систем 
+О децентрализованном адаптивном управлении эталонной моделью 
+О дисперсии числа нулей некоторых стационарных гауссовских процессов малые отклонения от простых решений 
+О дифференциальных уравнениях разрывной правой частью 
+О дихотомии нелинейных систем автоматического регулирования удовлетворяющих дифференциальной связи 
+О задаче абсолютной устойчивости систем управления несколькими нелинейными стационарными элементами 
+О задаче абсолютной устойчивости систем управления несколькими нелинейными стационарными элементами случае бесконечного сектора 
+О многомерных системах неединственным циклом методе гармонического баланса 
+О множестве парето задачах управления фильтрации при стохастических детерминированных возмущениях 
+О необходимости критерия попова для существования специальной функции ляпунова систем несколькими нелинейностями 
+О периодических интегральных многообразиях релейных включений метод функций ляпунова динамике нелинейных систем 
+О поведении при траекторий дискретно непрерывных регулируемых систем 
+О показателе ляпунова дискретных включений 
+О построении робастных законов управления на основе минимаксного подхода 
+О применении метода периодических функций ляпунова 
+О притяжении решений дискретно непрерывных управляемых систем критических случаях парой чисто мнимых 
+О проблеме абсолютной устойчивости импульсных систем автоматического управления 
+О проблеме айзермана 
+О проблеме барбашина 
+О робастной стабилизации неопределенных линейных систем 
+О свойствах решений одной системы уравнений зависящих от параметра 
+О скользящих режимах регулируемых разрывных систем последействием 
+О совпадении определений гелига леонова якубовича филиппова айзермана пятницкого 
+О совпадении определений гелига леонова якубовича филиппова айзермана пятницкого 
+О соотношении между двумя критериями абсолютной устойчивости 
+О специальном типе устойчивости дифференциальных уравнений асинхронных машин ротором двойная беличья клетка 
+О стабилизации линейных нестационарных систем неопределенностью коэффициентах 
+О структуре глобального аттрактора многосвязных систем автоматического регулирования 
+Об абсолютной устойчивости положительных систем 
+Об абсолютном характеристическом показателе класса линейных нестационарных систем дифференциальных уравнений 
+Об ограниченности решений систем линейных дифференциальных уравнений возмущением 
+Об одной задаче адаптивной подстройки непрерывных управляемых объектов 
+Об одной задаче смейла 
+Об одном расширении частотного критерия вм попова для нестационарных нелинейностей 
+Об одном способе построения функций ляпунова 
+Об одном типе устойчивости фазовых систем нелинейной модуляционной характеристикой 
+Об оценках областей притяжения стационарных решений дифференциальных уравнений систем частотной синхронизации 
+Об управлении вырожденными линейными динамическими системами 
+Об устойчивости разностных схем 
+Об устойчивости решений одного класса разрывных систем 
+Об устойчивости решений одной нелинейной системы дифференциальных уравнений 
+Об устойчивости решений разрывных систем квазинормальной определяющей матрицей 
+Об устойчивости решений разрывных систем квазинормальной определяющей матрицей 
+Об устойчивости целом систем импульсным воздействием 
+Область притяжения системы нелинейностями секторного полиномиального типа 
+Обобщенное оптимальное управление как компромисс между оптимальным оптимальным управлениями 
+Определение положения посадочного устройства беспилотного летательного аппарата условиях качки судна 
+Определение числа предельных циклов второго рода систем дифференциальных уравнений 
+Оптимальная робастная линейно квадратичная стабилизация 
+Оптимальная стабилизация системы управления при наличии ограничений на выходную переменную 
+Оптимальное гашение возмущений линейных управляемых системах 
+Оптимальное гашение возмущений при неизвестных начальных условиях системы 
+Оптимизация асимптотическая устойчивость 
+Оптимизация инвариантность линейных стационарных систем управления 
+Оптимізаційні методи дослідження абсолютної стійкості систем регулювання 
+Оссооббыыее рреешшеенниияя ддииффффееррееннццииааллььнныыхх ууррааввннеенниийй 
+Отрицательное решение проблемы калмана доказательство существования скрытого странного аттрактора 
+Оценка времени установления переходного процесса по выходу для дискретной фазовой системы 
+Оценка области притяжения заданным показателем экспоненциаль ной устойчивости задаче управления колесным роботом 
+Оценка области притяжения задаче управления колесным роботом 
+Оценка области притяжения инвариантного множества задаче управления мобильным роботом 
+Оценка области притяжения нестационарной системы секторной полиномиальными нелинейностями 
+Оценка области притяжения помощью функций ляпунова из класса форм высших степеней задаче управления мобильным роботом 
+Оценка области устойчивости нелинейной системы путем разбиения линейного блока на подсистемы 
+Оценки показателей решений систем линейных дифференциальных уравнений возмущением 
+Очерк истории леммы калмана попова якубовича процедуры 
+Очерки истории теории управления 
+Очерки теории абсолютной устойчивости 
+Пассивные системы рассеяния нелинейной обратной связью 
+Периодические движения критерии абсолютной устойчивости неустойчивости управляемости двумерных билинейных систем 
+Периодические режимы широтно импульсных системах 
+Периодические режимы широтно импульсных системах переменной структурой линейной части 
+Периодическое решение двумерных линейных нестационарных систем оценка границы области притяжения задаче управления колесным роботом 
+Покоординатные оценки векторного выхода многомерных систем фазовым управлением 
+Положительная стабилизируемость процессов управления 
+Получен частотный критерий стабилизации при помощи гармониче ского внешнего воздействия автономных нелинейных систем допускаю щих 
+Получены необходимые частотные условия абсолютной устойчивости для систем одной нестационарной нелинейной характеристикой 
+Построение инвариантных эллипсоидов задаче стабилизации движения колесного робота вдоль криволинейного пути 
+Построение наилучшей эллипсоидальной аппроксимации области притяжения задаче стабилизации движения колесного робота 
+Предельная периодичность систем автоматического регулирования гистерезисными нелинейностями 
+Прикладная теория дискретных адаптивных систем управления 
+Прикладная теория стохастической устойчивости оптимального стационарного управления часть ii 
+Прикладные задачи 
+Применение вращения векторного поля для определения циклов второго рода 
+Применение линейных матричных неравенств синтезе законов управления 
+Применение принципа декомпозиции для стабилизации заданной точностью номинального движения механической системы 
+Причины возникновения интервальных значений математических моделях исследования робастной устойчивости систем управления 
+Про одну різницеву систему зі слабкою нелінійністю 
+Проблема барбашина теории фазовых систем 
+Проблемы стабилизации линейных управляемых систем 
+Проводится анализ синтез алгоритмов адаптации управления на основе схемы скоростного градиента показано что алгоритмы скорост 
+Программа вступительного экзамена 
+Программа вступительного экзамена по специальности 01 01 09 дискретная математика математическая кибернетика утверждена на 
+Программа вступительного экзамена по специальности научных работников 
+Прямой метод ляпунова исследовании асимптотики фазовых систем 
+Равновесие устойчивость моделях популяционной динамики 
+Разработка алгоритмов управления электромагнитным тормозом для обеспечения устойчивости электроэнергетической 
+Разрешимость линейного матричного неравенства из теории систем автоматического управления 
+Распределенное управление нелинейной производственной системой 
+Расширение класса инвариантных множеств содержащих предельные циклы второго рода 
+Расширение процедуры анализ многомерных систем управления помощью линейных матричных неравенств 
+Регулирование скорости вращения асинхронного двигателя фазным ротором 
+Рецензенты кафедра прикладная математика федерального государственного образовательного учреждения высшего профессионального 
+Решение задачи об абсолютной стабилизации систем запаздыванием классе конечномерных регуляторов 
+Решение задачи управления при наличии регулярных возмущений нелинейностей 
+Решение матричных уравнений 
+Решение обратных задач минимаксного минимаксно робастного управлений 
+Решение системы матричных уравнений при наличии линейной связи 
+Робастная стратификация множества решений линейного матричного неравенства 
+Робастная устойчивость нелинейных импульсных систем 
+Робастная устойчивость параметрически возмущенного маятника 
+Робастное управление нелинейными системами случайной структуры 
+Семейства трансверсальных кривых для двумерных системдифференциальных уравнений 
+Синтез адаптивных регуляторов на основе метода функции ляпунова 
+Синтез грубых регуляторов на основе линейных матричных неравенств 
+Синтез линейных законов управления при фазовых ограничениях 
+Синтез многоцелевых линейных законов управления дискретными объектами при интегральных фазовых ограничениях 
+Синтез оптимального робастного управлений критерием 
+Синтез робастного управления учетом ограничений на фазовые управляющие переменные 
+Синтез робастных регуляторов от стабилизирующих опти мальных h оптимальным минимаксным законам управления 
+Синтез робастных регуляторов по выходу на основе частотных условий 
+Синтез робастных субоптимальных регуляторов как решение дифференциальной игры условиях неопределенности прямая обратная задачи 
+Синтез субоптимальных дискретных законов управления по выходу для гашения ограниченных возмущений 
+Скрытые аттракторы одной кусочно линейной системы отрезком покоя 
+Современное состояние проблемы теории устойчивости 
+Соотношения двойственности для обобщенных неравенств лурье 
+Стабилизация движения колесного робота вдоль криволинейной траектории проложенной по неровной поверхности 
+Стабилизация импульсных систем периодическим внешним воздействием 
+Стабилизация линейной обратной связью при фазовых ограничениях 
+Стабилизация линейной системы помощью комбинированной импульсной модуляции 
+Стабилизация некоторого класса равномерно управляемых систем 
+Стабилизация неустойчивых состояний равновесия динамических систем часть 2 стационарная нестационарная стабилизация назначение 
+Стабилизация неустойчивых состояний равновесия динамических систем часть 2 стационарная нестационарная стабилизация назначение 
+Стабилизация судна помощью нечеткого логического регулятора 
+Стабілізація системах непрямого регулювання методом функціоналів ляпунова красовського 
+Стохастическая устойчивость двухмерных линейных стационарных систем 
+Стохастическая устойчивость двухмерных линейных стационарных систем 
+Стохастические задачи абсолютной устойчивости 
+Структурная реализуемость регуляторов линейных стационарных систем управления 
+Существование периодических движений критерии абсолютной устойчивости нелинейных нестационарных систем трехмерном случае 
+Существование циклов второго рода системы фазовой автоподстройки частоты 
+Сходимость подстраиваемых параметров методе адаптивной стабилизации 
+Теоретико игровой подход синтезу робастных регуляторов 
+Теоретические основы автоматизированного управления конспект лекций 
+Теория управления 
+Труды санкт петербургского математического общества 
+Универсальные регуляторы стохастических задачах оптимального управления линейными стационарными объектами 
+Управление движением колесного робота задаче следования вдоль криволинейного пути 
+Управление колебаниями маятника переменными параметрами 
+Управление летательными аппаратами aw коррекцией1 
+Управление манипуляционными системами на основе информации об усилиях 
+Управление механическими системами условиях неопределенности при отсутствии количественной информации текущем состоянии 
+Управление нелинейных системах 
+Управление нелинейных системах абсолютная устойчивость двумерных систем одной гистерезисной нелинейностью1 
+Управление объекта векторным управлением запаздыванием эталонной моделью условиях неопределенности 
+Управление оценивание при информационных ограничениях единой теории управления вычислений связи 
+Управление по выходу линейным параметрически неопределенным объектом условиях возмущающих воздействий неучтенной динамики 
+Управление по выходу линейными системами неучтенной динамикой 
+Управление по выходу нелинейными системами запаздыванием условиях неучтенной динамики 
+Управление по выходу нелинейными системами неучтенной динамикой 
+Условия наличия предельного цикла одной системе гистерезисом 
+Условия наличия предельного цикла одной системе гистерезисом 
+Условия неразрешимости задачи управления 
+Условия отсутствия циклов второго рода для непрерывных дискретных систем цилиндрическим фазовым пространством 
+Условия стабилизации нелинейных систем гармоническим внешним воздействием 
+Условия существования квадратичной функции ляпунова для систем несколькими нелинейными блоками 
+Условия существования предельных циклов второго рода для модели системы частотно фазовой автоподстройки частоты 
+Устойчивость асинхронных импульсных систем со случайными возмущениями параметров 
+Устойчивость двумерных нелинейных систем описываемых непрерывной моделью роессера 
+Устойчивость линейных систем запаздыванием 
+Устойчивость нелинейных импульсных систем при случайных возмущениях параметров 
+Устойчивость одного класса функционально дифференциальных уравнений простейшем критическом случае 
+Устойчивость одного класса функционально дифференциальных уравнений простейшем критическом случае монотонной дифференцируемой 
+Устойчивость одной динамической системы встречающейся теории синхронных машин тт тусупова 
+Устойчивость от входа состоянию смежные свойства систем 
+Устойчивость процессов при непрерывных дискретных возмущениях 
+Устойчивость синхронизация осцилляторов новые функции ляпунова 
+Устойчивость систем интегральной широтно импульсной модуляцией 
+Устойчивость систем переменной структурой двумя управляющими воздействиями 
+Устойчивость систем управления деформацией пьезопреобразователя нанои микроперемещений 
+Устойчивость системы управления деформацией пьезодвигателя наноперемещений 
+Устойчивость стабилизация нелинейных 2d систем 
+Устойчивость фазовых систем управления дифференцируемыми нелинейностями 
+Устойчивость целом двумерной релейной системы гистерезисом1 см евдокимов2 работе рассматривается система 
+Фазовая синхронизация теория приложения 
+Функции ляпунова определяющие необходимые достаточные условия абсолютной устойчивости нелинейных нестационарных систем управления 
+Частотная теорема для периодических систем теория аналити ческого конструирования регуляторов 
+Частотная теорема лемма якубовича калмана теории управления 
+Частотно алгебраические оценки числа проскальзываний циклов для многомерных фазовых систем дифференцируемыми нелинейностями 
+Частотное условие обобщенной возвратной разности синтезе субоптимальных децентрализованных робастных регуляторов 
+Частотные критерии дихотомии абсолютной устойчивости для интегральных уравнений квадратичными связями содержащими 
+Частотные критерии дихотомиидля систем интегральных уравнений квадратичными связями содержащими запаздывания 
+Частотные критерии задаче вынужденных колебаниях систем автоматического регулирования 
+Частотные критерии консенсуса многоагентных системах нелинейными секторными связями 
+Частотные критерии неустойчивости систем фазовой синхронизации 
+Частотные критерии общей задаче об абсолютной стабилизируемости 
+Частотные критерии существования функций ляпунова для систем лурье нелинейностями из бесконечных секторов 
+Частотные модели методы анализа робастности динамических систем 
+Частотные оценки числа проскальзываний циклов фазовой системе векторной нелинейностью 
+Частотные оценки числа проскальзываний циклов фазовых системах автоматического регулирования 
+Частотные условия управления абсолютной стабилизации 
+Частотный критерий абсолютной устойчивости нелинейных систем 
+Частотный критерий дихотомичности регулируемых нелинейных систем гистерезисным элементом 
+Частотный критерий ограниченности решений фазовых систем запаздыванием 
+Частотный критерий стабилизации нелинейных систем гармоническим внешним воздействием 
+Частотный критерий существования странных аттракторов дискретных систем 
+Частотный критерий устойчивости нелинейных импульсных систем 
+Частотный критерий устойчивости нелинейных импульсных систем четным законом импульсации 
+Частотный критерий устойчивости систем дифференциальных уравнений гистерезисными функциями критическом 
+Частотный критерий устойчивости систем переключениями 
+Численно аналитический подход построения области начальных условий циклов второго рода 
+Численные методы оценки области притяжения задаче управления колесным роботом 
+Эквивалентные обратные связи линейных стационарных системах управления 
+Элементарное доказательство теоремыо стабилизируемости линейных управляемых систем 
+Элементы теории устойчивости учебное пособие 
+Эллипсоидальные аппроксимации области притяжения задаче путевой стабилизации колесного робота ограниченным 
+Явление захватывания системах гистерезисным элементом 
+关于 lur 非线性系统的绝对镇定 
+关于 lur 非线性系统的绝对镇定 英文 
