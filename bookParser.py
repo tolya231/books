@@ -2,8 +2,8 @@ import html2text
 import scholarly
 import re
 
-class bookParser:
 
+class bookParser:
     # convert html file to text file
     def writeHtmlToText(self, fromFile, toFile):
         with open(fromFile, 'r', encoding="utf8") as inp:
@@ -23,7 +23,7 @@ class bookParser:
         self.writeHtmlToText('input\elibrary.html', 'input\elib.txt')
         with open('input/elib.txt', 'r', encoding="utf8") as inp:
             result = re.findall(r'\[\*\*\s[\s\S]+?\*\*\]', inp.read())
+            result.pop(0)
             with open('input/elib.txt', 'w', encoding="utf8") as one:
                 for name in result:
                     one.write(name.replace('[** ', "").replace('**]', "").replace('\n', " ") + '\n')
-
