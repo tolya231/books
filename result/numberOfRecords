@@ -5,12 +5,11 @@
 fuzz.ratio(str1, str2) > 98                     312                            163
 
 max common subsequence: 0.05960264900662249     298                            150
+(1 - dist(str1,str2)/(len(str1 + str2)
 
 
 
-
-
-scholar = 613, elibrary = 465
+All books: scholar = 613, elibrary = 465
 
 модальная стабилизация некоторого класса равномерноуправляемых систем
 

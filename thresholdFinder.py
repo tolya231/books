@@ -14,14 +14,14 @@ def extractLines(input):
 def getThreshlold(lines):
     threshold = 1
     matcher = difflib.SequenceMatcher()
-    fuzzLen = len(min(lines))
-    minLen = sum(len(s) for s in heapq.nsmallest(2, lines, key=len))
+    # min_len = sum(len(s) for s in heapq.nsmallest(2, lines, key=len))
     while lines.__len__() > 1:
         line1 = lines.pop()
         for line2 in lines:
             # threshold = min(1 - fuzz.ratio(line1, line2) / fuzzLen, threshold)
             matcher.set_seqs(line1, line2)
             threshold = min(1 - 2 * matcher.find_longest_match(0, len(line1), 0, len(line2)).size / len(line1 + line2), threshold) #0.018587360594795488 0.05797101449275366
+            # threshold = min(1 - 2 * matcher.find_longest_match(0, len(line1), 0, len(line2)).size / min_len, threshold)
     return threshold
 
 

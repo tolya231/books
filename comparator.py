@@ -16,9 +16,9 @@ class comparator:
     # True if str1 and str2 is similar, False otherwise
     # TODO find good threshold (use difflib?)
     def isSimilar(self, str1, str2):
-        self.matcher.set_seqs(str1, str2)
-        return 1 - 2 * self.matcher.find_longest_match(0, len(str1), 0, len(str2)).size / len(str1 + str2) < 0.05960264900662249
-        # return fuzz.ratio(str1, str2) >= 99
+        # self.matcher.set_seqs(str1, str2)
+        # return 1 - 2 * self.matcher.find_longest_match(0, len(str1), 0, len(str2)).size / len(str1 + str2) < 0.05960264900662249
+        return fuzz.ratio(str1, str2) >= 99
 
     # true if str in set, false otherwise
     def inAnotherSet(self, str, set):
