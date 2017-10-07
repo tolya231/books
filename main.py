@@ -2,8 +2,8 @@ import comparator
 import bookParser
 
 # parse records from elibrary and google scholar
-parser = bookParser.bookParser()
-parser.elibrary()
+# parser = bookParser.bookParser()
+# parser.elibrary()
 # all names for this book
 # parser.scholar('Устойчивость нелинейных систем с неединственным состоянием равновесия')
 # parser.scholar('Stability of nonlinear systems with nonunique equilibrium position(Russian book)')

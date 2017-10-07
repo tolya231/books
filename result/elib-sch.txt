@@ -1,9 +1,7 @@
 Absolute stability dynamical systems survey 
-Aircraft control with anti windup compensation 
 Application the method lyapunov periodic functions 
 Canonical matrix factorisation and polynomial riccatequations 
 Certain problems synchronization theory 
-Computation the lock in ranges phase locked loops with filter 
 Design optimal and robust control with γ performance criterion 
 Design robust h suboptimal controllers solution differential game the presence uncertainty direct and inverse problems 
 Deterministic systems two criteria absolute stability for discrete systems 
@@ -19,7 +17,6 @@ Frequency domain criteria for dichotomy and absolute stability for integral equa
 Frequency domain methods nonlinear analysis theory and applications 
 Frequency methods oscillation theory 
 Hd systems 
-Hold in pull in and lock in ranges pll circuits rigorous mathematical definitions and limitations classical theory 
 Immune network modeling technology for complex objects intellectual control and forecasting system 
 Introduction the theory stability the motion 
 Invariant and stationary sets nonlinear discrete systems under bounded perturbations 
@@ -37,17 +34,12 @@ Output control nonlinear systems with unmodelled dynamics
 Passive scattering systems with nonlinear feedback 
 Phase synchronization and control clock generators 
 Popov criterion the problem forced oscillations control systems 
-Popov s method and its subsequent development 
 Programmable phase locked loops for digital signal processors 
-Pull in range the classical pll with impulse signals 
 Pull in range the pll based circuits with proportionally integrating filter 
 Quasi dissipativeness and l dissipativeness nonlinear systems 
-Rigorous mathematical definitions the hold in and pull in ranges for phase locked loops 
 Robust control nonlinear systems random structure 
 Robust stabilization uncertain linear systems 
-Simulation pll with impulse signals matlab limitations hidden oscillations and pull in range 
 Solution generalized lur e problem for two classes control systems 
-Solution the gardner problem the lock in range phase locked loop 
 Some classes matrices and the aizerman problem 
 Some problems nonlinear magnetoelasticity 
 Stability limit cycles with chattering relay feedback systems 
@@ -61,23 +53,11 @@ The iss approach the stability and robustness properties nonautonomous systems w
 The method several lyapunov functions the global stabilization problem for nonlinear systems 
 Unsolvability conditions for the control problem 
 Upper bounds for frequency periodic regimes many dimensional and infinite dimensional phase synchronization systems 
-absolute stability positive systems 
-conditions robust synchronization for multistable systems 
 decentralized adaptive control with reference model 
-global lyapunov characterization multi stable nonlinear systems 
 local analogue the popov frequency criterion for the absolute stability nonlinear system 
-new stability test for nonlinear nonautonomous systems 
-nonlinear philosophy for nonlinear systems 
 quadratic criterion absolute stability for systems with periodically time varying linear part its necessity 
 quadratic criterion for absolute stability 
 sliding modes controlled discontinuous systems with aftereffect 
-smale problem 
-solution concepts and well posedness linear relay systems 
-stability and passivity class hybrid systems 
-stabilization method neutral type direct control systems 
-the aizerman problem 
-the kalman problem 
-the robust synchronization brockett oscillators 
 universal regulator for optimal damping forced oscillations linear systems with delay 
 universal stabilizing controller for concatenated dynamical system 
 Автоколебания жестким возбуждением многосвязных регулируемых системах 
@@ -87,6 +67,7 @@ universal stabilizing controller for concatenated dynamical system
 Вычисление полосы захвата без проскальзывания систем фазовой синхронизации 
 Глобальная устойчивость нелинейных динамических систем распределенными параметрами 
 Двойственность фенхеля s процедура лемма якубовича калмана 
+Задача абсолютной устойчивости для сингулярно возмущенных систем обратной связью 
 Исследование глобальной асимптотической устойчивости фазовой системы регулятором 
 Качественное исследование дифференциальных уравнений асинхронных электрических машин 
 Квадратичный критерий абсолютной устойчивости в а якубовича частотная теорема теория многоагантных систем 
@@ -94,14 +75,18 @@ universal stabilizing controller for concatenated dynamical system
 Математические методы исследования колебаний системах сложными гистерезисными нелинейностями 
 Математические модели методы исследований нелинейных радиотехнических систем пространстве состояний 
 Математическое моделирование динамики управления экономическими процессами 
+Метод анализа динамических свойств дискретного контура регулирования линейному приближению разностных уравнений 
 Метод оценок при исследовании устойчивости систем типа нелинейный многометрии осциллятор 
 Методы классической современной теории автоматического управления 
+Необходимость квадратичном критерии абсолютной устойчивости систем периодически нестационарной линейной частью 
 Обобщенное h оптимальное управление как компромисс между h оптимальным оптимальным управлениями 
 Отрицательное решение проблемы калмана доказательство существования скрытого странного аттрактора методом разрывной аппроксимации 
 Оценка максимального шага дискретизации помощью аналога кругового критерия абсолютной устойчивости для систем переменным запаздыванием 
+Оценка области устойчивости нелинейной системы путем разбиения линейного блока подсистемы 
 Оценки множества достижимости дифференциальных включений 
 Оценки переходных процессов дискретных фазовых системах управления 
 Очерк истории леммы калмана попова якубовича s процедуры 
+Периодическое решение двумерных линейных нестационарных систем оценка границы области притяжения задаче управления колесным роботом 
 Риманов параллельный перенос нелинейной механике 
 Сингулярная задача оптимального управления линейной стационарной системой квадратичным функционалом 
 Синтез оптимального робастного управлений иж 70 критерием 
@@ -116,7 +101,6 @@ universal stabilizing controller for concatenated dynamical system
 Угловая модуляция системе фазовой автоподстройки частоты 
 Управление биологических системах медицине 
 Условия глобальной устойчивости одной системы гистерезисной нелинейностью 
-Условия неразрешимости задачи h управления 
 Усреднение диссипативных дифференциальных включений 
 Устойчивость колебания буровых установок 
 Устойчивость колебания решений дифференциальных уравнений гистерезисными функциями 
@@ -128,36 +112,20 @@ universal stabilizing controller for concatenated dynamical system
 Устойчивость стабилизация систем форназини маркезини неопределенными параметрами возможными нарушениями 
 Частотное условие обобщенной возвратной разности синтезе ноо субоптимальных децентрализованных робастных регуляторов 
 Частотные критерии дихотомии абсолютной устойчивости для интегральных уравнений квадратичными связями содержащими запаздывания 
+Частотные критерии дихотомии для систем интегральных уравнений квадратичными связями содержащими запаздывания 
 Частотные критерии задаче вынужденных периодических колебаниях систем автоматического регулирования 
+Частотный критерий абсолютной устойчивости нелинейных систем 
 Частотный критерий существования предельных циклов динамических систем цилиндрическим фазовым пространством 
 Эллипсоидальные аппроксимации области притяжения задаче путевой стабилизации колесного робота ограниченным управлением 
-абсолютной устойчивости положительных систем 
 глобальной устойчивости вынужденных движений жидкости внутри эллипсоида 
 глобальной устойчивости дифференциальных уравнений систем фазовой синхронизации 
-двух критериях абсолютной устойчивости дискретных систем 
-децентрализованном адаптивном управлении эталонной моделью 
 динамической устойчивости синхронных машин при сильном регулировании возбуждения 
-дифференциальных уравнениях разрывной правой частью 
-задаче стабилизации нелинейных аффинных систем 
 колебаниях модели тьюринга 
 новой параметризации h регуляторов 
 одной задаче смейла 
 одном алгоритме скольжения второго рода доказательстве его сходимости 
 одном подходе оценке числа циклов трехмерных систем 
 одном частотном критерии абсолютной устойчивости систем управления несколькими нелинейными стационарными элементами 
-показателе ляпунова дискретных включений 
-применении метода периодических функций ляпунова 
-проблеме айзермана 
-проблеме барбашина 
 разрешимости матричных неравенств 
-робастной стабилизации неопределенных линейных систем 
-свойствах решений одной системы уравнений зависящих параметра 
-скользящих режимах регулируемых разрывных систем последействием 
-соотношении между двумя критериями абсолютной устойчивости 
 существовании циклов первого рода систем цилиндрическим фазовым пространством 
-теории глобальной асимптотической устойчивости фазовых систем 
-теории регулируемых фазовых систем 
-управлении вырожденными линейными динамическими системами 
-устойчивости решений одного класса разрывных систем 
-устойчивости целом систем импульсным воздействием 
 ущербности s процедуры случае бесконечного сектора абсолютной устойчивости 
