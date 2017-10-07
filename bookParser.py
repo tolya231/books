@@ -20,7 +20,7 @@ class bookParser:
 
     # writing to "elib.txt" file from elibrary
     def elibrary(self):
-        self.writeHtmlToText('input\elibrary.html', 'input\elib.txt')
+        self.writeHtmlToText('input\elib.html', 'input\elib.txt')
         with open('input/elib.txt', 'r', encoding="utf8") as inp:
             result = re.findall(r'\[\*\*\s[\s\S]+?\*\*\]', inp.read())
             result.pop(0)
